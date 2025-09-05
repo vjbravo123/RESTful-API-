@@ -1,0 +1,17 @@
+{
+  "name": "node-rest-api-assignment",
+  "version": "1.0.0",
+  "description": "Assignment: Build a RESTful API using Node.js and Express",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
