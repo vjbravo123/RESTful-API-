@@ -1,6 +1,7 @@
 # Assignment: Build a RESTful API using Node.js and Express
 
-This project implements the exact routes and requirements from the assignment PDF.
+This project implements the  routes for Performing Crud operation for sample user data.  
+📂 GitHub Repo: [vjbravo123/RESTful-API-](https://github.com/vjbravo123/RESTful-API-.git)
 
 ## Tech
 - Node.js + Express
